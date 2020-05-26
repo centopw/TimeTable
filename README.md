@@ -5,6 +5,9 @@
 
 Timetable is an Android Application, which allows you to save timetable, homeworks and notes.
 
+### Getting started
+First make sure you have [java](https://www.java.com/en/download/) and [Gradle](https://gradle.org/) intall
+
 ### Contribute
 
 You are welcome to contribute with issues, pull requests and ideas. And to contribute to this project, please fork the project and submit a pull request. 
