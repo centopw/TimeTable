@@ -7,6 +7,7 @@ Timetable is an Android Application, which allows you to save timetable, homewor
 
 ### Getting started
 First make sure you have [java](https://www.java.com/en/download/) and [Gradle](https://gradle.org/) intall
+           COMMING SOON!!
 
 ### Contribute
 
